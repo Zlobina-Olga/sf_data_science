@@ -36,9 +36,9 @@
 :arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-* [Обучающее задание, в котором компьютер угадывает загаданное пользователем число]()
-* [Обучающее задание, в котором компьютер загадывает и отгадывает число рандомно]()
-* [Выполнение задания, в котором компьютер загадывает и отгадывает число за минимальное количество попыток (самостоятельное)]()
+* [Обучающее задание, в котором компьютер угадывает загаданное пользователем число](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/game.py)
+* [Обучающее задание, в котором компьютер загадывает и отгадывает число рандомно](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/game_v2.py)
+* [Выполнение задания, в котором компьютер загадывает и отгадывает число за минимальное количество попыток (самостоятельное)](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/game_v3.py)
 
 :arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
