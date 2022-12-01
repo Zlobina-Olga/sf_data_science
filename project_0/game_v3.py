@@ -25,10 +25,9 @@ def binary_search_predict(number:int=1) -> int:
         prediction_idx = int(len(candidates)//2) #задаем индекс срединного элемента списка
         prediction = candidates[prediction_idx] #определяем предполагаемое число по индексу
         
-        if number==prediction: #выходим из цикла, если угадали
+        if number == prediction: #выходим из цикла, если угадали
             break
-        
-        elif number<prediction:  #если загаданное число меньше предполагаемого
+        elif number < prediction:  #если загаданное число меньше предполагаемого
             candidates = candidates[:prediction_idx] #сокращаем список чисел-кандидатов сверху
         else:
             candidates = candidates[prediction_idx:] #в противном случае - снизу
