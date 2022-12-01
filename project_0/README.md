@@ -9,9 +9,9 @@
 6. [Выводы](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Выводы)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток
+Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем
@@ -25,28 +25,32 @@
 Результаты оцениваются по среднему количеству попыток за 1000 повторений.
 
 **Что практикуем**
-Учимся писать хороший код на python.
+* Учимся писать хороший код на python.
+* Учимся работать с IDE
+* Учимся работать с GitHub
 
 ### Краткая информация о данных
-....
+В решении задачи используется список натуральных чисел от 0 до 100
 
 
-:arrow_up:[к оглавлению](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-....
+* [Обучающее задание, в котором компьютер угадывает загаданное пользователем число]()
+* [Обучающее задание, в котором компьютер загадывает и отгадывает число рандомно]()
+* [Выполнение задания, в котором компьютер загадывает и отгадывает число за минимальное количество попыток (самостоятельное)]()
 
-:arrow_up:[к оглавлению](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результат
-Написана программа, которая угадывает загаданное компьютером число
+Написана программа, которая угадывает загаданное компьютером число за минимальное количество попыток, используя метод бинарного поиска.
 
-:arrow_up:[к оглавлению](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/Zlobina-Olga/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 

@@ -23,7 +23,7 @@ def random_predict(number:int=1) -> int:
     return count
 
 print(f'Количество попыток: {random_predict()}')
-
+        
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
 
@@ -47,4 +47,4 @@ def score_game(random_predict) -> int:
 
     
 if __name__ == '__main__':
-    score_game(random_predict)   
+    score_game(random_predict) 
